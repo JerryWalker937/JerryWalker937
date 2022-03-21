@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerryWalker937
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning programming in Linux & C
+- 🌱 I’m currently learning programming in Linux & java
 - 💞️ I’m looking to collaborate on Learning as much as i can
 - 📫 How to reach me wjerryjerry546@gmail.com
 
